@@ -1,5 +1,5 @@
 # Python File Organizer
-## This is the project from the YouTube Video [File Organizer in Python Code] (https://youtu.be/Im8KIXDJlF8)
+## This is the project from the YouTube Video [File Organizer in Python Code](https://youtu.be/Im8KIXDJlF8)
 
 ### Usage
 
